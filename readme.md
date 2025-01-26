@@ -11,23 +11,21 @@ o script gera senhas aleatórias seguras diretamente no terminal, permitindo que
 ## Como Usar
 
 1. **Para gerar uma senha de 16 caracteres (sem caracteres especiais):**  
-   Abra o terminal e execute o comando:
-   ```qualquer terminal de ambientes que suportem shell scripts
+   Abra qualquer terminal de ambientes que suportem shell scripts e execute:
+   
    ./genpass.sh 16
 
-2. **Gerar uma senha de 16 caracteres (com caracteres especiais):**  
-   Abra o terminal e execute o comando:
-   ```qualquer terminal de ambientes que suportem shell scripts
+3. **Gerar uma senha de 16 caracteres (com caracteres especiais):**  
+   Abra qualquer terminal de ambientes que suportem shell scripts e execute:
+   
    ./genpass.sh 16 yes
 
-3. **Para gerar uma senha de tamanho diferente é só incluir quantos caracteres desejar, com ou sem caracter especial.**  
-   Abra o terminal e execute o comando:
-   ```qualquer terminal de ambientes que suportem shell scripts
+4. **Para gerar uma senha de tamanho diferente é só incluir quantos caracteres desejar, com ou sem caracter especial.**  
+   Abra qualquer terminal de ambientes que suportem shell scripts e execute:
+   
    ./genpass.sh 10
- 
- Abra o terminal e execute o comando:
-    ```qualquer terminal de ambientes que suportem shell scripts
-     ./genpass.sh 10 yes 
+   ou
+   ./genpass.sh 10 yes 
 
 # imagem
 
