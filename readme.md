@@ -6,7 +6,6 @@ o script gera senhas aleatórias seguras diretamente no terminal, permitindo que
 
 - Gera senhas aleatórias seguras de qualquer tamanho.
 - Permite incluir ou não caracteres especiais.
-- Copia a senha gerada para a área de transferência automaticamente (Linux/Mac), ou você pode copiá-la manualmente no Windows.
 
 ## Como Usar
 
